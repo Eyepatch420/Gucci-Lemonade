@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bogosort", "bogosort.pyproj", "{20FAEC56-3EC8-422F-A2DD-421B96BC0281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FAEC56-3EC8-422F-A2DD-421B96BC0281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FAEC56-3EC8-422F-A2DD-421B96BC0281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30089606-BB8C-47E8-B7A4-29AA68004FE0}
+	EndGlobalSection
+EndGlobal
